@@ -5,7 +5,7 @@ export const typeOrmConfig: TypeOrmModuleOptions = {
   host: 'localhost',
   port: 3306,
   username: 'root',
-  password: '1234567890',
+  password: '44016458',
   database: 'events_db',
   entities: [__dirname + '/../**/*.entity.{ts,js}'],
   synchronize: true,
